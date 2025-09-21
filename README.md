@@ -1,16 +1,19 @@
-## Hi there 👋
+## Isabelly Barros 💡
 
-<!--
-**isabellybarros662/isabellybarros662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora Full Stack Júnior | HTML5, CSS3, JavaScript, PHP & MySQL`**
 
-Here are some ideas to get you started:
+🎓 Estudante do 3º ano de Desenvolvimento de Sistemas na ETEC Deputado Ary de Camargo Pedroso (Piracicaba-SP).  
+🚀 Atualmente desenvolvendo meu TCC – **Narraverso**, uma plataforma web para publicação de histórias.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- **Front-end:** HTML5, CSS3, JavaScript e Bootstrap
+- **Back-end:** PHP (OO e procedural)
+- **Banco de dados:** MySqli
+- **Outros:** Git/GitHub, Android Studio, Java, C#
+
+## 📌 Projetos em destaque
+- [Narraverso](https://github.com/isabellybarros662/narraverso) → Plataforma web para histórias (PHP + MySQL).  
+- [Sistema de Login Seguro](https://github.com/isabellybarros662/sistema-login-seguro) → Autenticação com criptografia e recuperação de senha via e-mail.  
+- [Lista Customizada (Android)](https://github.com/isabellybarros662/lista-customizada-android) → App em Java com CRUD integrado a banco de dados.  
+
+  📬 **Aberta a oportunidades de estágio, projetos colaborativos e oportunidades na área de desenvolvimento.**
