@@ -16,4 +16,5 @@
 - [Sistema de Login Seguro](https://github.com/isabellybarros662/sistema-login-seguro) → Autenticação com criptografia e recuperação de senha via e-mail.  
 - [Lista Customizada (Android)](https://github.com/isabellybarros662/lista-customizada-android) → App em Java com CRUD integrado a banco de dados.  
 
+
   📬 **Aberta a oportunidades de estágio, projetos colaborativos e oportunidades na área de desenvolvimento.**
